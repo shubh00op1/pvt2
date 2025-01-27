@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext
 from keep_alive import keep_alive
 keep_alive()
 
-TELEGRAM_BOT_TOKEN = '7719510425:AAF6Owaj0MilYMpy5VZVfUjFJtdTcblB_e8'
+TELEGRAM_BOT_TOKEN = '7787664106:AAEuwhyu2JMALANhncCVcDMdpJadxpxBnNQ'
 ADMIN_USER_ID = 1817896911
 USERS_FILE = 'users.txt'
 attack_in_progress = False
